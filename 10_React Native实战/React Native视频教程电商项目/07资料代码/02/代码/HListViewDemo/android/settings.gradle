@@ -1,0 +1,3 @@
+rootProject.name = 'HListViewDemo'
+
+include ':app'
